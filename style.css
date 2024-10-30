@@ -50,3 +50,14 @@ table{
     text-align: center;
     border-collapse: collapse;
 }
+
+.comment{
+    padding-left: 10px;
+    padding-top: 8px;
+}
+
+.goals{
+    padding-left: 10px;
+
+}
+
